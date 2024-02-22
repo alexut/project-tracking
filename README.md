@@ -1,6 +1,6 @@
 # project-tracking
+
 ```mermaid
-Creare template de site minimalistic
 mindmap
   root((mindmap))
     Origins
