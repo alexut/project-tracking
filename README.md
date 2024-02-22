@@ -1,5 +1,5 @@
 # project-tracking
-
+```mermaid
 Creare template de site minimalistic
 mindmap
   root((mindmap))
@@ -18,3 +18,4 @@ mindmap
     Tools
       Pen and paper
       Mermaid
+```
